@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "async-waterfall": "^0.1.5",
+    "ipfs": "^0.30.0",
     "vue": "^2.5.16"
   },
   "devDependencies": {
