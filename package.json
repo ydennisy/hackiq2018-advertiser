@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "async-waterfall": "^0.1.5",
-    "ipfs": "^0.30.0",
+    "ipfs": "^0.66.1",
     "vue": "^2.5.16"
   },
   "devDependencies": {
